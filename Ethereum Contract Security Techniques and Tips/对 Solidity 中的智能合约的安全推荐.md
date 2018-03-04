@@ -1,4 +1,4 @@
-# 
+# Ethereum Smart Contract Best Practices
 
 ## 对 Solidity 中的智能合约的安全推荐 Recommendations for Smart Contract Security in Solidity
 
