@@ -1,4 +1,6 @@
-# 
+# 智能合约最佳实践翻译二
+
+[原文链接](https://consensys.github.io/smart-contract-best-practices/recommendations/)
 
 ## 对 Solidity 中的智能合约的安全推荐 Recommendations for Smart Contract Security in Solidity
 
